@@ -1,0 +1,9 @@
+[db]
+node6
+[monitor]
+node5
+[all:vars]
+package1=httpd
+pathfile=/home/ansible/path1.txt
+package2=wget
+
